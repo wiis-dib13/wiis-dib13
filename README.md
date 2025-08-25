@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm wissem</h1>
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
-![GitHub Streak PNG](https://streak-stats.demolab.com/?user=wiis-dib13&type=png)
-
-
-
-
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=wiis-dib13" alt="GitHub Streak"/>
+  </a>
+</div>
 
 - 📫 How to reach me **dibwissem7@gmail.com**
 
