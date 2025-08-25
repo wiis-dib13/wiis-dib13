@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm wissem</h1>
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wiis-dib13" alt="wiis-dib13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=wiis-dib13" alt="wiis-dib13" /></a> </p>
 
 - 📫 How to reach me **dibwissem7@gmail.com**
 
