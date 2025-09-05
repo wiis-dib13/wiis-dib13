@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm wissem</h1>
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiss-dib13&layout=compact&theme=dark)
-</div>
+
 
 - 📫 How to reach me **dibwissem7@gmail.com**
 
