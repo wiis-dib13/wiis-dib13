@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiss-dib13&layout=compact&theme=dark)
   
   </a>
 </div>
