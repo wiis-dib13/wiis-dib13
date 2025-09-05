@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiss-dib13&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiis-dib13&layout=compact&theme=dark)
 
 
 - 📫 How to reach me **dibwissem7@gmail.com**
