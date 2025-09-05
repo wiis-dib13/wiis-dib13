@@ -1,12 +1,15 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm wissem</h1>
-font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=hi,iam wissem+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiis-dib13&layout=compact&theme=dark)
+</div>
 
 - 📫 How to reach me **dibwissem7@gmail.com**
 
