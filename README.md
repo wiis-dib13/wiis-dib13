@@ -3,8 +3,6 @@
 
 <div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiss-dib13&layout=compact&theme=dark)
-  
-  </a>
 </div>
 
 - 📫 How to reach me **dibwissem7@gmail.com**
