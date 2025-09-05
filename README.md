@@ -1,14 +1,12 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm wissem</h1>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiis-dib13&layout=compact&theme=dark)
 
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
 
-&theme=tokyonight
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 - 📫 How to reach me **dibwissem7@gmail.com**
 
