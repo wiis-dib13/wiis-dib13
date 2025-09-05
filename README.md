@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiis-dib13&layout=compact&theme=dark)
+&theme=tokyonight
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
