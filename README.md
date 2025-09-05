@@ -1,3 +1,4 @@
+&theme=dark&title_color=9146FF&icon_color=9146FF&text_color=ffffff&bg_color=0D1117
 <h1 align="center">Hi 👋, I'm wissem</h1>
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
 
