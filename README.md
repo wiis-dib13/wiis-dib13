@@ -1,10 +1,9 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm wissem</h1>
           
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiis-dib13&layout=compact&theme=dark)
 
 <h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
-
+https://wissem-portflolio.netlify.app/
 
 
 
