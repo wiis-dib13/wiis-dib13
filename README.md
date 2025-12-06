@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm wissem</h1>
           
 
-<h3 align="center">A passionate frontend developer from algeria , flutter beginner and Aspiring data scientist</h3>
+<h3 align="center">A passionate frontend developer from algeria and Aspiring data scientist</h3>
 
 
 
