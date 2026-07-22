@@ -4,11 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Building+beautiful+software.;Learning+something+new+every+day.;React+Native+%7C+Next.js+%7C+AI."/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4FC3F7"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square"/>
-</p>
+
 
 </div>
 
@@ -53,15 +49,6 @@ const me = {
 </p>
 
 
-# GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
