@@ -1,7 +1,5 @@
 <div align="center">
 
-# Wissem
-
 ### Software Engineer • React Native • Next.js • AI
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Building+beautiful+software.;Learning+something+new+every+day.;React+Native+%7C+Next.js+%7C+AI."/>
@@ -81,8 +79,5 @@ const me = {
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/xxxxxxxx">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
 
 </p>
